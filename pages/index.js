@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome Birthday Girl!" />
         <p className="description">
-          Wait For It <code>pages/index.js</code>
+          You came into this world naked and screaming, and I hope you party just as hard tonight
+I have the hottest girlfriend in town, and she has an even hotter partner. Happy birthday! <code>pages/index.js</code>
         </p>
       </main>
 
